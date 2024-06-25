@@ -1,0 +1,67 @@
+.bg-grey{
+    background-color: #c9afb9;
+    margin: 15px;
+    padding: 10px;
+    }
+    
+    .bg1{
+        background-color: #2c84c6;
+     
+    padding: 10px;
+    }
+    
+    .bg2{
+        background-color: #2492d1;
+     
+    padding: 10px;
+    }
+    
+    .bg3{
+        background-color:#1e9ed9 ;
+       
+    padding: 10px;
+    }
+    
+    .bg4{
+        background-color:#34a7dd ;
+       
+    padding: 10px;
+    }
+    
+    .bg5{
+        background-color:#56b5e6 ;
+        padding: 10px;
+        }
+    
+    .bg6{
+        background-color:#70c1eb ;
+        padding: 10px;
+    }
+    .bg7{
+        background-color:#8ecaee ;
+        padding: 10px;
+    }
+    .bg8{
+        background-color:#1bb584 ;
+        padding: 10px;
+    }
+    .bg9{
+        background-color:#f5b0ce ;
+        padding: 10px;
+    }
+    .bg10{
+        background-color: #f39ec3;
+        padding: 10px;
+    }
+    .bg11{
+        background-color:#f179a5 ;
+        padding: 10px;
+    }
+    .bg12{
+        background-color:#ee3881 ;
+        padding: 10px;
+    }
+    body{
+        background-color:#bfbfbf;
+    }
+    
